@@ -1,2 +1,2 @@
 # GWLog
-Write text log in device local for Developer
+Logging the text in this local device.
